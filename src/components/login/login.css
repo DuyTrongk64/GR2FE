@@ -1,0 +1,54 @@
+/* src/App.css */
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto; /* Thêm dòng này để căn giữa */
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  span {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  

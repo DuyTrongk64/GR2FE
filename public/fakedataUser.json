@@ -1,0 +1,21 @@
+[
+    {
+        "mssv": "20194622",
+        "student_name": "Nguyễn Duy Trọng",
+        "educational_program": "CNTT VN - Information Technology Specialist 2019",
+        "gender": "Nam",
+        "uyear": "K64",
+        "email": "duytrongk64@gmail.com",
+        "state": true,
+        "info_state": true,
+        "room": "303",
+        "building": "B9",
+        "term": "20231",
+        "time_start": "20/9/2023",
+        "time_end": "20/10/2023",
+        "total_student": 3355,
+        "total_register": 750,
+        "total_mod": 32,
+        "total_room": 120
+    }
+]

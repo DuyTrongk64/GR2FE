@@ -1,0 +1,142 @@
+[
+    {
+        "building": "B9",
+        "detail": [
+            {
+                "room": "101",
+                "students": [
+                    {
+                        "id": 1,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    }
+                ]
+            },
+            {
+                "room": "202",
+                "students": [
+                    {
+                        "id": 1,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "building": "B6",
+        "detail": [
+            {
+                "room": "101",
+                "students": [
+                    {
+                        "id": 1,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    }
+                ]
+            },
+            {
+                "room": "202",
+                "students": [
+                    {
+                        "id": 1,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Nguyễn Văn A",
+                        "date_of_birth": "10/9/2001",
+                        "gender": "Nam",
+                        "class": "IT-E6 03",
+                        "mssv": "20194694",
+                        "note": "Tài khoản chờ xác thực"
+                    }
+                ]
+            }
+
+        ]
+    }
+]

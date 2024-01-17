@@ -1,0 +1,40 @@
+[
+    {
+        "term": "20231",
+        "wave": [
+            {
+                "id": 1,
+                "total_students": 860,
+                "total_register": 750,
+                "status": false,
+                "total_room": 110
+            },
+            {
+                "id": 2,
+                "total_students": 450,
+                "total_register": 250,
+                "status": false,
+                "total_room": 110
+            }
+        ]
+    },
+    {
+        "term": "20232",
+        "wave": [
+            {
+                "id": 1,
+                "total_students": 900,
+                "total_register": 600,
+                "status": true,
+                "total_room": 110
+            },
+            {
+                "id": 2,
+                "total_students": 600,
+                "total_register": 500,
+                "status": false,
+                "total_room": 300
+            }
+        ]
+    }
+]

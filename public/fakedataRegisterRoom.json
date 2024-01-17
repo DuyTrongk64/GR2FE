@@ -1,0 +1,48 @@
+[
+    {
+        "building": "B9",
+        "room": [
+            {
+                "room": 101,
+                "capacity": 10,
+                "price": 1200000,
+                "current": 8
+            },
+            {
+                "room": 102,
+                "capacity": 10,
+                "price": 1200000,
+                "current": 1
+            },
+            {
+                "room": 103,
+                "capacity": 10,
+                "price": 1200000,
+                "current": 6
+            }
+        ]
+    },
+    {
+        "building": "B6",
+        "room": [
+            {
+                "room": 101,
+                "capacity": 10,
+                "price": 2000000,
+                "current": 2
+            },
+            {
+                "room": 102,
+                "capacity": 10,
+                "price": 800000,
+                "current": 8
+            },
+            {
+                "room": 103,
+                "capacity": 10,
+                "price": 70000,
+                "current": 6
+            }
+        ]
+    }
+]
